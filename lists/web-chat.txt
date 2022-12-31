@@ -1,0 +1,3 @@
+||helpshift.com^$important
+||helpscout.net^$important
+||zopim.com^$important

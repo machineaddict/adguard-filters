@@ -1,0 +1,19 @@
+# Some of these filters as it will block some features, like Windows updates
+#||windowsupdate.com^$important
+#||msftncsi.com^$important
+#||nsatc.net^$important
+#||msecnd.net^$important
+#||virtualearth.net^$important
+
+# Exceptions
+@@||download.microsoft.com^$important
+@@||packages.microsoft.com^$important
+@@||time.windows.com^$important
+
+# Xbox
+||xboxab.com^$important
+||xboxlive.com^$important
+
+# Idk
+||tile-service.weather.microsoft.com^$important
+||share.microsoft.com^$important

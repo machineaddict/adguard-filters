@@ -1,0 +1,18 @@
+# Rewards
+||api.rewards.brave.com^$important
+||grant.rewards.brave.com^$important
+||rewards.brave.com^$important
+
+# Update checks
+||componentupdater.brave.com^$important
+||go-updater.brave.com^$important
+||laptop-updates.brave.com^$important
+
+# Safe browsing
+||safebrowsing.brave.com^$important
+
+# Analytics
+||analytics.brave.com^$important
+
+# Idk
+||variations.brave.com^$important

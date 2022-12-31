@@ -1,0 +1,45 @@
+# Gravatar icons
+||gravatar.com^$important
+
+# Disqus embed
+||disqus.com^$important
+
+# Reddit
+||w3-reporting-nel.reddit.com^$important
+
+# Netflix
+||push.prod.netflix.com^$important
+
+# Share links
+||addthis.com^$important
+||shareaholic.net^$important
+
+# Old browsers are dead
+||polyfill.io^$important
+
+# Google plus is dead
+||plus.l.google.com^$important
+
+# Twitter embed
+||platform.twitter.com^$important
+||syndication.twitter.com^$important
+
+# Wikipedia
+||login.wikimedia.org^$important
+
+# Github ping
+||alive.github.com^$important
+
+# Browser logs
+||*.ingest.sentry.io^$important
+||sessions.bugsnag.com^$important
+
+# Browsers safe browsing
+||safebrowsing.googleapis.com^$important
+
+# Unknown requests
+||globalupload.io^$important
+
+# Idk
+||typekit.net^$important
+||id.google.ro^$important

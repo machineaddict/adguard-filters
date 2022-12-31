@@ -1,0 +1,16 @@
+# Utilities
+@@||www.eon.ro^$important
+
+# Outlook Online
+@@||account.live.com^$important
+@@||attachment.outlook.live.net^$important
+@@||login.live.com^$important
+@@||logincdn.msauth.net^$important
+@@||logincdn.msftauth.net^$important
+@@||outlook.live.com^$important
+@@||res.cdn.office.net^$important
+@@||www.bing.com^$important
+
+# Browser JS libraries
+@@||ajax.aspnetcdn.com^$important
+@@||apis.google.com^$important

@@ -1,0 +1,4 @@
+||vscodeexperiments.azureedge.net^$important
+
+# Exceptions
+@@||code.visualstudio.com^$important

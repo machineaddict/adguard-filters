@@ -1,0 +1,4 @@
+# Web Skype exception
+@@||web.skype.com^$important
+
+||consumer.entitlement.skype.com^$important

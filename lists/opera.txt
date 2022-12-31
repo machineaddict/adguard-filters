@@ -1,0 +1,15 @@
+||af.opera.com^$important
+||autoupdate.geo.opera.com^$important
+||eu-autoupdate.opera.com^$important
+||exchange.opera.com^$important
+||get.geo.opera.com^$important
+||speeddials.opera.com^$important
+
+||sd-images.operacdn.com^$important
+
+||features.opera-api.com^$important
+||merchandise.opera-api.com^$important
+||suggestions.opera-api.com^$important
+||weather.opera-api.com^$important
+
+||opera.software^$important

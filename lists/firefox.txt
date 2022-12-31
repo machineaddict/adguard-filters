@@ -1,0 +1,24 @@
+# Detect captive portals
+# https://www.ghacks.net/2020/02/19/why-is-firefox-establishing-connections-to-detectportal-firefox-com-on-start/
+||detectportal.firefox.com^$important
+
+# Mozilla Tile Service
+# https://github.com/mozilla-services/contile
+||contile.services.mozilla.com^$important
+
+# Login breach information
+# https://support.mozilla.org/en-US/kb/how-stop-firefox-making-automatic-connections#w_login-breach-information
+||firefox.settings.services.mozilla.com^$important
+
+# Geolocation for default search engine
+# https://support.mozilla.org/en-US/kb/how-stop-firefox-making-automatic-connections#w_geolocation-for-default-search-engine
+||location.services.mozilla.com^$important
+
+# Safe browsing service
+||shavar.services.mozilla.com^$important
+
+# Allows websites to notify you of new messages or updated content
+||push.services.mozilla.com^$important
+
+# Idk
+||search.services.mozilla.com^$important

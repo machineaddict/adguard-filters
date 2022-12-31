@@ -1,0 +1,22 @@
+# Samsung android phones
+||api.omc.samsungdm.com^$important
+||clientapi-samsung.dtignite.com^$important
+||capi.samsungcloud.com^$important
+||dc.dqa.samsung.com^$important
+||diagmon-policy.samsungdm.com^$important
+||dls-udc.dqa.samsung.com^$important
+||eu-api.samsungpositioning.com^$important
+||gos-gsp.io^$important
+||poll.gras.samsungdm.com^$important
+||samsungosp.com^$important
+||samsung.com^$important
+||samsungapps.com^$important
+||samsungcloud.com^$important
+||samsungdiroute.net^$important
+||samsungdm.com^$important
+||samsungknox.com^$important
+||samsungspd.com^$important
+||secb2b.com^$important
+||sdk.pushmessage.samsung.com^$important
+||stc.samsungdis.com^$important
+||vas.samsungapps.com^$important

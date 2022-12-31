@@ -1,0 +1,15 @@
+# No exceptions
+||www.googletagmanager.com^$important
+||www.googleadservices.com^$important
+
+# Twitch TV
+||viewer-geolocation.twitch-ext.rootonline.de^$important
+||leaderboard-extension.opl.io^$important
+||countess.twitch.tv^$important
+
+||analytics-tcp.mintegral.net^$important
+||apester.com^$important
+||growsumo.com^$important
+||privacy-mgmt.com^$important
+||pushpushgo.com^$important
+||searchiq.co^$important

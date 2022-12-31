@@ -1,0 +1,2 @@
+||update.vivaldi.com^$important
+||login.vivaldi.net^$important

@@ -1,0 +1,315 @@
+! ########################
+! List: usesless-stuff.txt
+! ########################
+# Gravatar icons
+||gravatar.com^$important
+
+# Disqus embed
+||disqus.com^$important
+
+# Reddit
+||w3-reporting-nel.reddit.com^$important
+
+# Netflix
+||push.prod.netflix.com^$important
+
+# Share links
+||addthis.com^$important
+||shareaholic.net^$important
+
+# Old browsers are dead
+||polyfill.io^$important
+
+# Google plus is dead
+||plus.l.google.com^$important
+
+# Twitter embed
+||platform.twitter.com^$important
+||syndication.twitter.com^$important
+
+# Wikipedia
+||login.wikimedia.org^$important
+
+# Github ping
+||alive.github.com^$important
+
+# Browser logs
+||*.ingest.sentry.io^$important
+||sessions.bugsnag.com^$important
+
+# Browsers safe browsing
+||safebrowsing.googleapis.com^$important
+
+# Unknown requests
+||globalupload.io^$important
+
+# Idk
+||typekit.net^$important
+||id.google.ro^$important
+
+! ########################
+! List: cookie-consent.txt
+! ########################
+||cookiebot.com^$important
+||consensu.org^$important
+||cookielaw.org^$important
+||truste.com^$important
+||trustarc.com^$important
+||cookiepro.blob.core.windows.net^$important
+||cookiepro.com^$important
+||iubenda.com^$important
+||onetrust.com^$important
+||cookieinformation.com^$important
+||privacymanager.io^$important
+||transcend.io^$important
+||pushinstruments.com^$important
+||civiccomputing.com^$important
+||osano.com^$important
+
+! ########################
+! List: samsung.txt
+! ########################
+# Samsung android phones
+||api.omc.samsungdm.com^$important
+||clientapi-samsung.dtignite.com^$important
+||capi.samsungcloud.com^$important
+||dc.dqa.samsung.com^$important
+||diagmon-policy.samsungdm.com^$important
+||dls-udc.dqa.samsung.com^$important
+||eu-api.samsungpositioning.com^$important
+||gos-gsp.io^$important
+||poll.gras.samsungdm.com^$important
+||samsungosp.com^$important
+||samsung.com^$important
+||samsungapps.com^$important
+||samsungcloud.com^$important
+||samsungdiroute.net^$important
+||samsungdm.com^$important
+||samsungknox.com^$important
+||samsungspd.com^$important
+||secb2b.com^$important
+||sdk.pushmessage.samsung.com^$important
+||stc.samsungdis.com^$important
+||vas.samsungapps.com^$important
+
+! ########################
+! List: vscode.txt
+! ########################
+||vscodeexperiments.azureedge.net^$important
+
+# Exceptions
+@@||code.visualstudio.com^$important
+
+! ########################
+! List: opera.txt
+! ########################
+||af.opera.com^$important
+||autoupdate.geo.opera.com^$important
+||eu-autoupdate.opera.com^$important
+||exchange.opera.com^$important
+||get.geo.opera.com^$important
+||speeddials.opera.com^$important
+
+||sd-images.operacdn.com^$important
+
+||features.opera-api.com^$important
+||merchandise.opera-api.com^$important
+||suggestions.opera-api.com^$important
+||weather.opera-api.com^$important
+
+||opera.software^$important
+
+! ########################
+! List: exceptions.txt
+! ########################
+# Utilities
+@@||www.eon.ro^$important
+
+# Outlook Online
+@@||account.live.com^$important
+@@||attachment.outlook.live.net^$important
+@@||login.live.com^$important
+@@||logincdn.msauth.net^$important
+@@||logincdn.msftauth.net^$important
+@@||outlook.live.com^$important
+@@||res.cdn.office.net^$important
+@@||www.bing.com^$important
+
+# Browser JS libraries
+@@||ajax.aspnetcdn.com^$important
+@@||apis.google.com^$important
+
+! ########################
+! List: web-chat.txt
+! ########################
+||helpshift.com^$important
+||helpscout.net^$important
+||zopim.com^$important
+
+! ########################
+! List: vivaldi.txt
+! ########################
+||update.vivaldi.com^$important
+||login.vivaldi.net^$important
+
+! ########################
+! List: xiaomi.txt
+! ########################
+# Android phones
+||alikunlun.com^$important
+||miui.com^$important
+||ovscdns.com^$important
+||tmo.net^$important
+||xiaomi.net^$important
+||xiaomi.com^$important
+||xiaomi.edgesuite.net^$important
+
+! ########################
+! List: firefox.txt
+! ########################
+# Detect captive portals
+# https://www.ghacks.net/2020/02/19/why-is-firefox-establishing-connections-to-detectportal-firefox-com-on-start/
+||detectportal.firefox.com^$important
+
+# Mozilla Tile Service
+# https://github.com/mozilla-services/contile
+||contile.services.mozilla.com^$important
+
+# Login breach information
+# https://support.mozilla.org/en-US/kb/how-stop-firefox-making-automatic-connections#w_login-breach-information
+||firefox.settings.services.mozilla.com^$important
+
+# Geolocation for default search engine
+# https://support.mozilla.org/en-US/kb/how-stop-firefox-making-automatic-connections#w_geolocation-for-default-search-engine
+||location.services.mozilla.com^$important
+
+# Safe browsing service
+||shavar.services.mozilla.com^$important
+
+# Allows websites to notify you of new messages or updated content
+||push.services.mozilla.com^$important
+
+# Idk
+||search.services.mozilla.com^$important
+
+! ########################
+! List: windows-10.txt
+! ########################
+# Some of these filters as it will block some features, like Windows updates
+#||windowsupdate.com^$important
+#||msftncsi.com^$important
+#||nsatc.net^$important
+#||msecnd.net^$important
+#||virtualearth.net^$important
+
+# Exceptions
+@@||download.microsoft.com^$important
+@@||packages.microsoft.com^$important
+@@||time.windows.com^$important
+
+# Xbox
+||xboxab.com^$important
+||xboxlive.com^$important
+
+# Idk
+||tile-service.weather.microsoft.com^$important
+||share.microsoft.com^$important
+
+! ########################
+! List: brave.txt
+! ########################
+# Rewards
+||api.rewards.brave.com^$important
+||grant.rewards.brave.com^$important
+||rewards.brave.com^$important
+
+# Update checks
+||componentupdater.brave.com^$important
+||go-updater.brave.com^$important
+||laptop-updates.brave.com^$important
+
+# Safe browsing
+||safebrowsing.brave.com^$important
+
+# Analytics
+||analytics.brave.com^$important
+
+# Idk
+||variations.brave.com^$important
+
+! ########################
+! List: android.txt
+! ########################
+# Logging and tracking
+||trafficmanager.net^$important
+||app-measurement.com^$important
+||crashlytics.com^$important
+
+# Services
+||chromesyncpasswords-pa.googleapis.com^$important
+||crashlyticsreports-pa.googleapis.com^$important
+||dialercallinfolookup-pa.googleapis.com^$important
+||infinitedata-pa.googleapis.com^$important
+||phonedeviceverification-pa.googleapis.com^$important
+||service.game-mode.net^$important
+||telephonyspamprotect-pa.googleapis.com^$important
+
+# Apps config
+||firebaseremoteconfig.googleapis.com^$important
+
+# Safe browsing
+||android-safebrowsing.google.com^$important
+
+# VoIP
+||3gppnetwork.org^$important
+
+# The following might break your Android internet connection
+||alt1-mtalk.google.com^$important
+||alt2-mtalk.google.com^$important
+||alt3-mtalk.google.com^$important
+||alt4-mtalk.google.com^$important
+||alt5-mtalk.google.com^$important
+||alt6-mtalk.google.com^$important
+||alt7-mtalk.google.com^$important
+||alt8-mtalk.google.com^$important
+||clients1.google.com^$important
+||clients2.google.com^$important
+||clients3.google.com^$important
+||clients4.google.com^$important
+||clients5.google.com^$important
+||clients6.google.com^$important
+||clients7.google.com^$important
+||clients8.google.com^$important
+
+! ########################
+! List: skype.txt
+! ########################
+# Web Skype exception
+@@||web.skype.com^$important
+
+||consumer.entitlement.skype.com^$important
+
+! ########################
+! List: steam.txt
+! ########################
+||steam-chat.com^$important
+
+! ########################
+! List: ads-and-tracking.txt
+! ########################
+# No exceptions
+||www.googletagmanager.com^$important
+||www.googleadservices.com^$important
+
+# Twitch TV
+||viewer-geolocation.twitch-ext.rootonline.de^$important
+||leaderboard-extension.opl.io^$important
+||countess.twitch.tv^$important
+
+||analytics-tcp.mintegral.net^$important
+||apester.com^$important
+||growsumo.com^$important
+||privacy-mgmt.com^$important
+||pushpushgo.com^$important
+||searchiq.co^$important
+

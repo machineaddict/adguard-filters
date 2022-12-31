@@ -1,0 +1,15 @@
+||cookiebot.com^$important
+||consensu.org^$important
+||cookielaw.org^$important
+||truste.com^$important
+||trustarc.com^$important
+||cookiepro.blob.core.windows.net^$important
+||cookiepro.com^$important
+||iubenda.com^$important
+||onetrust.com^$important
+||cookieinformation.com^$important
+||privacymanager.io^$important
+||transcend.io^$important
+||pushinstruments.com^$important
+||civiccomputing.com^$important
+||osano.com^$important
