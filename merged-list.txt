@@ -235,6 +235,9 @@
 # Analytics
 ||analytics.brave.com^$important
 
+# Sync
+||sync-*.brave.com^$important
+
 # Idk
 ||variations.brave.com^$important
 
