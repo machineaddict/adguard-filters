@@ -1,5 +1,6 @@
 # Utilities
 @@||www.eon.ro^$important
+@@||web-ui.eon.com^$important
 
 # Outlook Online
 @@||account.live.com^$important
