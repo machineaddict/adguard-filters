@@ -24,6 +24,9 @@
 ||platform.twitter.com^$important
 ||syndication.twitter.com^$important
 
+# Facebook embed
+||connect.facebook.net^$important
+
 # Wikipedia
 ||login.wikimedia.org^$important
 
