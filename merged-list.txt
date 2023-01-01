@@ -270,6 +270,9 @@
 # VoIP
 ||3gppnetwork.org^$important
 
+# Games
+||track.pmosvc.io^$important
+
 # The following might break your Android internet connection
 ||alt1-mtalk.google.com^$important
 ||alt2-mtalk.google.com^$important
